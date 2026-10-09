@@ -8,10 +8,9 @@ Each generated answer is linked to supporting passages using source identifiers 
 
 ---
 
-
 ## Demo
 
-[Watch ResearchPaper-RAG Demo](docs/demo_rag.gif)
+![ResearchPaper-RAG Demo](docs/demo_rag.gif)
 
 # Overview
 
