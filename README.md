@@ -8,6 +8,11 @@ Each generated answer is linked to supporting passages using source identifiers 
 
 ---
 
+
+## Demo
+
+[Watch ResearchPaper-RAG Demo](docs/demo_rag.gif)
+
 # Overview
 
 Research papers contain information distributed across sections such as introductions, datasets, methodology, experiments, results, and limitations. A single retrieval strategy may retrieve semantically related text without necessarily identifying the most useful evidence for a specific research question.
@@ -68,10 +73,6 @@ ResearchPaper-RAG addresses this using a multi-stage retrieval and generation pi
 The system follows a multi-stage RAG architecture designed to improve retrieval quality, evidence relevance, and answer traceability.
 
 ![ResearchPaper-RAG Architecture](docs/architecture.png)
-
-## Demo
-
-[Watch ResearchPaper-RAG Demo](docs/demo_rag.mp4)
 
 ## 1. Document Processing
 
