@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+
+.env
+
+.vscode/
+.streamlit/
+
+data/papers/
+data/processed/
+data/vectorstore/
+indexes/
+
+*.log
